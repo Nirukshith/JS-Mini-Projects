@@ -9,6 +9,7 @@ Displays winner after each round
 Simple design with interactive buttons
 
 📸 Preview
+
 ![Calculator Screenshot](./ss.jpg)
 
 
