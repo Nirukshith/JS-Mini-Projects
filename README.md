@@ -11,8 +11,5 @@ Simple design with interactive buttons
 📸 Preview
 ![Calculator Screenshot](./ss.jpg)
 
-💻 How to Use
-Clone the repository:
-git clone https://github.com/your-username/rock-paper-scissors.git
-Open the calculator.html file in your browser and enjoy the game!
+
 
