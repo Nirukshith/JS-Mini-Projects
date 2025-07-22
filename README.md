@@ -9,7 +9,7 @@ Displays winner after each round
 Simple design with interactive buttons
 
 📸 Preview
-(Optional: You can add a screenshot of the game interface)
+![Calculator Screenshot](./ss.jpg)
 
 💻 How to Use
 Clone the repository:
