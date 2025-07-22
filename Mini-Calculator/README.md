@@ -1,12 +1,10 @@
-✊✋✌️ Rock Paper Scissors Game
+📱 Simple Calculator
 
-This is a fun and simple Rock Paper Scissors game built using HTML, CSS, and JavaScript. You can play against the computer right in your browser!
+This is a basic calculator web app built using HTML, CSS, and JavaScript. It performs simple arithmetic operations like addition, subtraction, multiplication, and division.
 
 🚀 Features
-Play Rock, Paper, or Scissors
-Computer randomly selects its move
-Displays winner after each round
-Simple design with interactive buttons
+Addition, Subtraction, Multiplication, Division
+Simple and clean UI
 
 📸 Preview
 
